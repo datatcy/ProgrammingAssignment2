@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## This function will invers the given matris, if necessary the result ##will set/get in to cacher to avoid computing
 ## functions do
 
 ## Write a short comment describing this function
